@@ -1,2 +1,1 @@
-# tracker
-Founders tracker. Encrypted Pages — not the source.
+Founders only. Encrypted page — not the source.
